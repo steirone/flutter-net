@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="97px" viewBox="0 0 33 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>gobiz-pattern-1</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="33" height="97"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-/-Pots-/-Gobiz-Pocket" transform="translate(0.000000, -65.000000)">
+            <g id="gobiz-pattern-1" transform="translate(0.000000, 65.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <circle id="Oval-Copy-3" fill="#752581" mask="url(#mask-2)" cx="-12" cy="57.5" r="39.5"></circle>
+                <circle id="Oval-Copy-4" stroke="#974DA1" stroke-width="2" mask="url(#mask-2)" cx="-14" cy="47" r="46"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

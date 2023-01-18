@@ -1,0 +1,42 @@
+<svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1=".483%" y1="56.097%" x2="101.101%" y2="51.057%" id="a">
+            <stop stop-color="#DDE8ED" offset="0%"/>
+            <stop stop-color="#F3F8FB" offset="76%"/>
+        </linearGradient>
+        <linearGradient x1="81.398%" y1="-4.39%" x2="18.602%" y2="104.429%" id="b">
+            <stop stop-color="#76067F" offset="42%"/>
+            <stop stop-color="#4E0556" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50.039%" x2="100%" y2="50.039%" id="c">
+            <stop stop-color="#A605AE" offset="24%"/>
+            <stop stop-color="#C639D1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1=".078%" y1="50.132%" x2="100.078%" y2="50.132%" id="d">
+            <stop stop-color="#A605AE" offset="24%"/>
+            <stop stop-color="#C639D1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="25%" y1="93.182%" x2="75%" y2="6.818%" id="e">
+            <stop stop-color="#76067F" offset="42%"/>
+            <stop stop-color="#4E0556" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1=".174%" y1="49.999%" x2="100%" y2="49.999%" id="f">
+            <stop stop-color="#FCD22A" offset="0%"/>
+            <stop stop-color="#FDAF27" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1=".614%" y1="49.923%" x2="100.461%" y2="49.923%" id="g">
+            <stop stop-color="#FFF" offset="0%"/>
+            <stop stop-color="#F4F4F4" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g fill-rule="nonzero" fill="none">
+        <path d="M15.25 46.513C6.375 40 .088 23.288 1.15 12.5 3.063-6.863 33.313 2.725 43.163 9.088 61.463 20.925 32.2 58.962 15.25 46.512z" fill="url(#a)"/>
+        <rect fill="url(#b)" transform="rotate(-180 20.669 23.313)" x="4.588" y="7.225" width="32.163" height="32.175" rx="3.84"/>
+        <rect fill="url(#c)" transform="rotate(-180 26.919 23.313)" x="10.838" y="7.225" width="32.163" height="32.175" rx="3.84"/>
+        <path d="M9.325 18.587h11.35v9.45H9.325A4.725 4.725 0 0 1 4.6 23.314a4.725 4.725 0 0 1 4.725-4.726z" fill="url(#d)" transform="rotate(180 12.637 23.313)"/>
+        <circle fill="url(#e)" cx="16.538" cy="23.3" r="1.375"/>
+        <circle fill="#4A4A4A" opacity=".4" cx="38.2" cy="35.575" r="7.213"/>
+        <path d="M38.2 27.1a7.225 7.225 0 1 0 7.213 7.225A7.213 7.213 0 0 0 38.2 27.1z" fill="url(#f)"/>
+        <path d="M41.35 33.413h-2.238v-2.25a.913.913 0 0 0-1.825 0v2.25H35a.913.913 0 0 0 0 1.825h2.25V37.5a.913.913 0 0 0 1.825 0v-2.263h2.237a.913.913 0 0 0 0-1.825h.038z" fill="url(#g)"/>
+    </g>
+</svg>

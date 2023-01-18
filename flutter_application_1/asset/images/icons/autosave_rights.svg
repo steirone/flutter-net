@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <linearGradient id="prefix__a" x1="42.083%" x2="99.526%" y1="50.052%" y2="50.052%">
+            <stop offset="0%" stop-color="#BC0335"/>
+            <stop offset="100%" stop-color="#BA023B"/>
+        </linearGradient>
+        <linearGradient id="prefix__b" x1="0%" x2="100%" y1="49.975%" y2="49.975%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#F4F4F4"/>
+        </linearGradient>
+        <linearGradient id="prefix__c" x1="50%" x2="50%" y1="99.917%" y2="0%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#F4F4F4"/>
+        </linearGradient>
+        <linearGradient id="prefix__d" x1="50%" x2="50%" y1="78.5%" y2="21.5%">
+            <stop offset="24%" stop-color="#A605AE"/>
+            <stop offset="100%" stop-color="#C639D1"/>
+        </linearGradient>
+        <linearGradient id="prefix__e" x1="50%" x2="50%" y1="56%" y2="44%">
+            <stop offset="24%" stop-color="#A605AE"/>
+            <stop offset="100%" stop-color="#C639D1"/>
+        </linearGradient>
+        <linearGradient id="prefix__f" x1="23.918%" x2="100.159%" y1="49.961%" y2="49.961%">
+            <stop offset="0%" stop-color="#FF0048"/>
+            <stop offset="100%" stop-color="#BA023B"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M8.205 2.25C3.112 6.45-.113 16.657.885 23.078c1.785 11.542 19.59 4.807 25.282.667C36.75 16.05 17.955-5.775 8.205 2.25z"/>
+        <path fill="url(#prefix__a)" fill-rule="nonzero" d="M13.305 20.782c.971.847 2.419.847 3.39 0l9.555-8.43c-.386-.374-.902-.584-1.44-.585H5.168c-.53.007-1.038.216-1.418.585l9.555 8.43z"/>
+        <path fill="#4A4A4A" fill-rule="nonzero" d="M20.302 2.19H7.552c-.692.002-1.355.279-1.843.77-.488.49-.761 1.155-.759 1.848v12.314h18V4.808c0-.7-.28-1.37-.777-1.862-.498-.492-1.171-.764-1.87-.756z" opacity=".4"/>
+        <path fill="url(#prefix__b)" fill-rule="nonzero" d="M23.67 17.122V4.808c0-1.446-1.172-2.618-2.618-2.618H8.302c-.692.002-1.355.279-1.843.77-.488.49-.761 1.155-.759 1.848v12.314h17.97z"/>
+        <path fill="#DEE2E9" fill-rule="nonzero" d="M22.155 20.872V5.468c.002-.433-.169-.85-.474-1.156-.305-.307-.72-.48-1.154-.48H8.842c-.432 0-.848.173-1.153.48-.305.307-.476.723-.474 1.155v15.405h14.94z"/>
+        <circle cx="14.685" cy="17.122" r="4.492" fill="url(#prefix__c)" fill-rule="nonzero"/>
+        <path fill="url(#prefix__d)" fill-rule="nonzero" d="M25.628 11.925c.24.1.458.246.645.427-.187-.181-.405-.326-.645-.427z"/>
+        <path fill="url(#prefix__e)" fill-rule="nonzero" d="M25.245 11.813c.103.018.204.048.3.09-.096-.042-.197-.072-.3-.09z"/>
+        <path fill="url(#prefix__f)" fill-rule="nonzero" d="M26.25 12.352l-9.555 8.43c-.971.847-2.419.847-3.39 0l-9.555-8.43c.186-.181.405-.326.645-.427-.793.323-1.312 1.094-1.312 1.95V25.71c0 .558.222 1.094.617 1.488.396.394.932.614 1.49.612h19.642c.559.002 1.095-.218 1.49-.612.396-.394.618-.93.618-1.488V13.875c-.009-.581-.258-1.133-.69-1.523z"/>
+        <path fill="url(#prefix__e)" fill-rule="nonzero" d="M4.455 11.902c.096-.04.197-.07.3-.09-.103.02-.204.05-.3.09z"/>
+    </g>
+</svg>

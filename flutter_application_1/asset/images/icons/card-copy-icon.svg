@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <path id="swhlkf760a" d="M10.263 0H1.58C.71 0 0 .75 0 1.667V12.5c0 .458.355.833.79.833.434 0 .789-.375.789-.833v-10c0-.458.355-.833.79-.833h7.894c.434 0 .79-.375.79-.834 0-.458-.356-.833-.79-.833zm.466 3.825l3.813 4.025c.292.308.458.733.458 1.175v7.642c0 .916-.71 1.666-1.579 1.666H4.73c-.868 0-1.571-.75-1.571-1.666L3.166 5c0-.917.702-1.667 1.57-1.667h4.872c.418 0 .82.175 1.12.492zm-.466 5.342h3.553L9.474 4.583v3.75c0 .459.355.834.79.834z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <path d="M0 0L19 0 19 20 0 20z" transform="translate(-335 -606) translate(0 590) translate(335 16) translate(3 2)"/>
+                        <g transform="translate(-335 -606) translate(0 590) translate(335 16) translate(3 2) translate(1.667 .833)">
+                            <mask id="f4mlhjf5bb" fill="#fff">
+                                <use xlink:href="#swhlkf760a"/>
+                            </mask>
+                            <use fill="#000" fill-rule="nonzero" xlink:href="#swhlkf760a"/>
+                            <g fill="#000" mask="url(#f4mlhjf5bb)">
+                                <path d="M0 0L18.947 0 18.947 20 0 20z" transform="translate(-1.579 -.833)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

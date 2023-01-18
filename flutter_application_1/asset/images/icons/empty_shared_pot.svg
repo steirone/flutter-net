@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+    <defs>
+        <filter id="prefix__a" width="178%" height="178%" x="-39%" y="-27.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="7" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.106544384 0"/>
+        </filter>
+        <filter id="prefix__c" width="178%" height="178%" x="-39%" y="-27.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="7" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.106544384 0"/>
+        </filter>
+        <rect id="prefix__b" width="62.804" height="62.804" x="0" y="0" rx="11.2"/>
+        <rect id="prefix__d" width="62.804" height="62.804" x="0" y="0" rx="11.2"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 22)">
+        <path fill="#DEE2E9" fill-rule="nonzero" d="M38.592 16.928c1.266-.021 2.31.987 2.334 2.254l.146 8.41c.021 1.266-.987 2.31-2.254 2.334l-8.41.146c-1.266.021-2.31-.987-2.334-2.254l-.146-8.41c-.021-1.266.987-2.31 2.254-2.334l8.41-.146z"/>
+        <path stroke="#DCE0E7" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M28 147L28 153 22 153 22 159 16 159 16 165 10 165 10 171 4 171" transform="rotate(-67 16 159)"/>
+        <g transform="rotate(-15 557.235 -755.256)">
+            <circle cx="7.899" cy="7.987" r="7.159" stroke="#FDAF27" stroke-width="3" opacity=".302"/>
+            <circle cx="7.819" cy="7.848" r="2.045" fill="#FCD22A" fill-rule="nonzero" opacity=".401"/>
+        </g>
+        <circle cx="120" cy="103" r="89" fill="#FFF3DF"/>
+        <g transform="translate(52)">
+            <g transform="translate(0 71)">
+                <rect width="62.804" height="62.804" x=".281" y=".813" fill="#FFF" rx="11.2"/>
+                <circle cx="32.207" cy="31.692" r="16.224" fill="#FEEBC9"/>
+                <g transform="translate(72)">
+                    <rect width="62.804" height="62.804" x=".281" y=".813" fill="#F49F64" opacity=".4" rx="11.2"/>
+                    <circle cx="32.207" cy="31.692" r="16.224" fill="#FFF"/>
+                </g>
+            </g>
+            <g transform="translate(0 143)">
+                <rect width="62.804" height="62.804" x=".281" y=".813" fill="#EDEDED" rx="11.2"/>
+                <circle cx="32.207" cy="31.692" r="16.224" fill="#FFF"/>
+                <g transform="translate(72 1)">
+                    <use fill="#000" filter="url(#prefix__a)" xlink:href="#prefix__b"/>
+                    <use fill="#FFF" xlink:href="#prefix__b"/>
+                    <g fill="#FDAF27" opacity=".25" transform="translate(15 14)">
+                        <circle cx="17" cy="17" r="16.875"/>
+                    </g>
+                </g>
+            </g>
+            <use fill="#000" filter="url(#prefix__c)" xlink:href="#prefix__d"/>
+            <use fill="#FFF" xlink:href="#prefix__d"/>
+            <circle cx="32.207" cy="30.692" r="16.224" fill="#A605AD" opacity=".25"/>
+            <g transform="translate(72)">
+                <rect width="62.804" height="62.804" fill="#FFF" rx="11.2"/>
+                <circle cx="32.207" cy="30.692" r="16.224" fill="#ECECEC"/>
+            </g>
+        </g>
+        <path fill="#F7B500" fill-rule="nonzero" d="M208.553 16.415c1.2-.166 2.308.67 2.479 1.868l1.303 9.27c.168 1.2-.487 1.577-1.446.854l-12.028-9.064c-.967-.728-.772-1.457.422-1.625l9.27-1.303zm-7.356 14.92c-1.2.167-2.31-.668-2.479-1.868l-.346-2.462c-.168-1.2.482-1.58 1.457-.846l4.24 3.196c.974.734.788 1.465-.41 1.633l-2.462.346z" opacity=".464"/>
+        <path stroke="#EFEFEF" stroke-width="3" d="M185.99 214.178c-.787.614-2.252.664-3.077.108l-6.734-4.543c-.826-.558-1.327-1.935-1.052-2.892l2.239-7.808c.275-.96 1.43-1.861 2.425-1.896l8.117-.283c.997-.035 2.211.787 2.552 1.722l2.778 7.632c.341.938-.065 2.347-.848 2.959l-6.402 5.001h.001z"/>
+    </g>
+</svg>

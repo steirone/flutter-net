@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <linearGradient id="b40lall26a" x1="30.234%" x2="100%" y1="12.194%" y2="82.608%">
+            <stop offset="0%" stop-color="#FCD22A"/>
+            <stop offset="100%" stop-color="#FDAF27"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <path fill="#FFAD00" d="M17.347 23.538H3.092c-1.453 0-2.63-1.151-2.63-2.573V3.536c0-1.422 1.177-2.575 2.63-2.575h14.255c1.453 0 2.631 1.153 2.631 2.575v17.429c0 1.422-1.178 2.573-2.63 2.573" transform="translate(-32 -5) translate(32 5) translate(5 3)"/>
+                    <path fill="#FF8B00" d="M9.646.961H3.093C1.64.961.462 2.114.462 3.536v17.429c0 1.422 1.178 2.573 2.63 2.573h1.535L9.647.961z" transform="translate(-32 -5) translate(32 5) translate(5 3)"/>
+                    <path fill="#FFF" d="M1.996 20.908V3.092c0-1.452 1.096-2.63 1.096-2.63h-.42C1.22.462.72 1.64.72 3.092v17.816c0 1.453 1.178 2.63 2.631 2.63h1.277c-1.453 0-2.631-1.177-2.631-2.63" transform="translate(-32 -5) translate(32 5) translate(5 3)"/>
+                    <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="M17.347 23.538H3.092c-1.453 0-2.63-1.151-2.63-2.573V3.536c0-1.422 1.177-2.575 2.63-2.575h14.255c1.453 0 2.631 1.153 2.631 2.575v17.429c0 1.422-1.178 2.573-2.63 2.573zM18.12 11.453L18.12 11.914" transform="translate(-32 -5) translate(32 5) translate(5 3)"/>
+                    <path stroke="#000" stroke-dasharray=".977 1.953" stroke-linecap="round" stroke-linejoin="round" d="M18.12 13.717v6.604c0 .8-.648 1.447-1.447 1.447H3.767c-.8 0-1.446-.648-1.446-1.447v-7.506" transform="translate(-32 -5) translate(32 5) translate(5 3)"/>
+                    <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="M2.32 11.914L2.32 11.453M18.12 1.423L18.12 7.073 10.22 11.452 10.165 11.452 2.265 7.073 2.265 1.423" transform="translate(-32 -5) translate(32 5) translate(5 3)"/>
+                    <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="M19.923 8.407L10.22 13.645 10.165 13.645.462 8.407M7.902 5.846c0-1.265 1.025-2.29 2.29-2.29 1.265 0 2.29 1.025 2.29 2.29 0 1.265-1.025 2.29-2.29 2.29-1.265 0-2.29-1.025-2.29-2.29z" transform="translate(-32 -5) translate(32 5) translate(5 3)"/>
+                    <path fill="#000" d="M9.646 5.846c0-.301.245-.547.546-.547.302 0 .546.246.546.547 0 .301-.244.546-.546.546-.301 0-.546-.245-.546-.546" transform="translate(-32 -5) translate(32 5) translate(5 3)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

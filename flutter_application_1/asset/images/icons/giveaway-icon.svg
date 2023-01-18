@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <path fill="#FF8A00" d="M13.637 7.613L17.819 9.774 23.496 10.596 27.272 10.323 16.946 7.229z" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path fill="#FFAC00" d="M3.775 21.745L13.636 25.131 15.574 19.699 13.636 13.983 3.775 10.596z" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path fill="#FF8A00" d="M13.637 13.983L13.637 25.131 23.496 21.745 23.496 10.596zM3.776 10.596L1.022 13.808 10.694 17.415 13.636 13.983z" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path fill="#C66606" d="M3.776 15.647L10.694 18.227 13.636 13.982 10.694 17.415 3.776 14.835z" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path fill="#FF8A00" d="M23.496 10.596L26.25 13.808 16.579 17.415 13.637 13.983z" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path fill="#C66606" d="M23.496 15.647L16.579 18.227 13.637 13.982 16.579 17.415 23.496 14.835z" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path fill="#FF8A00" d="M0 10.323L3.776 10.596 9.453 9.774 13.636 7.613 10.327 7.229z" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".563" d="M13.636 7.613L16.946 7.229 27.273 10.323 24.969 10.489M2.493 12.091L1.022 13.808 10.693 17.415 13.636 13.983M23.658 10.757L26.412 13.969 16.74 17.576 13.798 14.144M11.474 7.362L10.326 7.229 0 10.323 3.203 10.554" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path fill="#A605AD" d="M23.496 10.596L13.637 7.613 3.776 10.596 13.637 13.983z" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".563" d="M3.776 16.463L3.776 21.745 13.636 25.132 23.496 21.745 23.496 15.647" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path stroke="#000" stroke-linecap="round" stroke-width=".563" d="M18.153 3.729L19.634 2.099M18.734 5.406L21.042 4.467M7.737 3.188L6.014 1.817M7.433 4.937L5.004 4.38" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                        <path fill="#A605AD" d="M14.07.169l.707 1.433c.043.089.129.151.228.166l1.581.23c.248.036.348.341.168.516L15.61 3.63c-.071.07-.104.17-.087.268l.27 1.575c.042.247-.218.436-.44.32l-1.414-.744c-.089-.046-.194-.046-.282 0l-1.415.744c-.222.116-.482-.073-.44-.32l.27-1.575c.018-.098-.015-.198-.086-.268L10.84 2.514c-.18-.175-.08-.48.169-.516l1.58-.23c.099-.015.184-.077.228-.166L13.526.17c.111-.225.433-.225.543 0" transform="translate(-184 -26) translate(184 26) translate(1.257 1.875)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

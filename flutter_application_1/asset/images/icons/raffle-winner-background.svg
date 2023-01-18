@@ -1,0 +1,9 @@
+<svg width="375" height="667" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <circle id="a" cx="187" cy="333" r="375"/>
+        <mask id="b" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="750" height="750" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+    </defs>
+    <use mask="url(#b)" xlink:href="#a" stroke="#FDAF27" stroke-width="760" fill="none" fill-rule="evenodd" stroke-dasharray="50,40"/>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="explain_shorcuts">
+            <polygon id="Path" points="0 0 30 0 30 30 0 30"></polygon>
+            <path d="M5,16.25 L12.5,16.25 C13.188,16.25 13.75,15.687 13.75,15 L13.75,5 C13.75,4.312 13.187,3.75 12.5,3.75 L5,3.75 C4.312,3.75 3.75,4.313 3.75,5 L3.75,15 C3.75,15.688 4.313,16.25 5,16.25 Z M17.5,26.25 L25,26.25 C25.688,26.25 26.25,25.687 26.25,25 L26.25,15 C26.25,14.312 25.687,13.75 25,13.75 L17.5,13.75 C16.812,13.75 16.25,14.313 16.25,15 L16.25,25 C16.25,25.688 16.813,26.25 17.5,26.25 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M5,26.25 L12.5,26.25 C13.188,26.25 13.75,25.687 13.75,25 L13.75,20 C13.75,19.312 13.187,18.75 12.5,18.75 L5,18.75 C4.312,18.75 3.75,19.313 3.75,20 L3.75,25 C3.75,25.688 4.313,26.25 5,26.25 Z M16.25,5 L16.25,10 C16.25,10.688 16.813,11.25 17.5,11.25 L25,11.25 C25.688,11.25 26.25,10.687 26.25,10 L26.25,5 C26.25,4.312 25.687,3.75 25,3.75 L17.5,3.75 C16.812,3.75 16.25,4.313 16.25,5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.5"></path>
+        </g>
+    </g>
+</svg>

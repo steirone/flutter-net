@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico_extrasecure@1,5x</title>
+    <defs>
+        <filter x="-3.5%" y="-2.8%" width="107.0%" height="105.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-21.7%" y="-21.7%" width="143.3%" height="143.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="R2---Current" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="POSREG_Card" transform="translate(-39.000000, -346.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Activate-Card" filter="url(#filter-1)" transform="translate(16.000000, 148.000000)">
+                <g id="ico_extrasecure" transform="translate(23.000000, 198.000000)" filter="url(#filter-2)">
+                    <g id="Group-12" transform="translate(5.000000, 3.000000)">
+                        <path d="M16.1769231,9.78461538 L13.8692308,9.78461538 L13.8692308,6.27692308 C13.8692307,4.0847775 12.0921456,2.30769243 9.9,2.30769243 C7.70785442,2.30769243 5.9307693,4.0847775 5.93076923,6.27692308 L5.93076923,9.78461538 L3.62307692,9.78461538 L3.62307692,6.27692308 C3.62307692,2.81027419 6.43335111,-7.72032011e-14 9.9,-7.72032011e-14 C13.3666489,-7.72032011e-14 16.1769231,2.81027419 16.1769231,6.27692308 L16.1769231,9.78461538 Z" id="Path" opacity="0.5"></path>
+                        <path d="M17.46,9.76153846 C18.7523463,9.76153846 19.8,10.8091921 19.8,12.1015385 L19.8,20.2984615 C19.8,21.5908079 18.7523463,22.6384615 17.46,22.6384615 L2.34,22.6384615 C1.04765369,22.6384615 7.90076497e-12,21.5908079 7.89945886e-12,20.2984615 L7.89945886e-12,12.1015385 C7.8993006e-12,10.8091921 1.04765369,9.76153846 2.34,9.76153846 L17.46,9.76153846 Z M9.9,14.0076923 C8.68497355,14.0076923 7.7,14.9926659 7.7,16.2076923 C7.7,17.4227188 8.68497355,18.4076923 9.9,18.4076923 C11.1150264,18.4076923 12.1,17.4227188 12.1,16.2076923 C12.1,14.9926659 11.1150264,14.0076923 9.9,14.0076923 Z" id="Combined-Shape"></path>
+                        <circle id="Oval" opacity="0.5" cx="9.9" cy="16.2076923" r="2.2"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

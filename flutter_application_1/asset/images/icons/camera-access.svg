@@ -1,0 +1,21 @@
+<svg width="41" height="40" viewBox="0 0 41 40" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h40v40H0z"/>
+        <circle cx="14" cy="14" r="14" transform="translate(5.96 6)" fill="#F1D8A6" fill-rule="nonzero"/>
+        <g transform="rotate(-7 143.633 8.785)">
+            <path d="M5.179 2.334h18.608A4.213 4.213 0 0 1 28 6.547v9.46a4.213 4.213 0 0 1-4.213 4.213H5.179a4.213 4.213 0 0 1-4.213-4.213v-9.46a4.213 4.213 0 0 1 4.213-4.213z" fill="#FFF5D3"/>
+            <path d="M5.179 2.334h18.608A4.213 4.213 0 0 1 28 6.547v1.6H.966v-1.6a4.213 4.213 0 0 1 4.213-4.213z" fill="#FDAF27"/>
+            <path d="M5.179 2.334h18.608A4.213 4.213 0 0 1 28 6.547v9.46a4.213 4.213 0 0 1-4.213 4.213H5.179a4.213 4.213 0 0 1-4.213-4.213V6.562h0" stroke="#000" stroke-width=".5" stroke-linecap="round" stroke-linejoin="round"/>
+            <ellipse stroke="#000" stroke-width=".5" fill="#FDAF27" cx="17.73" cy="12.11" rx="5.28" ry="5.299"/>
+            <ellipse stroke="#000" stroke-width=".527" fill-opacity=".8" fill="#000" cx="17.73" cy="12.11" rx="2.633" ry="2.643"/>
+            <ellipse fill-opacity=".8" fill="#FFF" cx="19.047" cy="10.261" rx="1.58" ry="1.585"/>
+            <ellipse stroke="#000" stroke-width=".5" fill="#FCDB55" cx="23.787" cy="6.562" rx="1.33" ry="1.335"/>
+            <rect stroke="#000" stroke-width=".5" fill="#FCDB55" x="5.429" y="9.454" width="5.235" height="5.313" rx="1.053"/>
+            <path d="M2.208 14.265a.8.8 0 0 1-.804.803c-.377 0-.67-.083-.869-.233a.694.694 0 0 1-.285-.57V9.407a.8.8 0 0 1 .803-.803c.378 0 .67.083.87.233.19.142.285.345.285.57zM7.088 2.75a.8.8 0 0 1-.803-.803v-.894A.8.8 0 0 1 7.088.25h1.894a.8.8 0 0 1 .803.803v.894a.8.8 0 0 1-.803.803z" stroke="#000" stroke-width=".5" fill="#FCDB55"/>
+        </g>
+        <g transform="translate(23.27 2)" fill-rule="nonzero">
+            <circle fill="#6DD400" cx="8.5" cy="8.5" r="7.969"/>
+            <path d="M11.927 4.723 6.795 9.974 5.4 8.38a.728.728 0 0 0-1.131.917l1.65 2.797a.885.885 0 0 0 1.481 0c.263-.35 5.22-6.566 5.22-6.566.605-.718-.136-1.331-.693-.805z" fill="#FFF"/>
+        </g>
+    </g>
+</svg>

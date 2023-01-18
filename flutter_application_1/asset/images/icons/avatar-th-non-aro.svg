@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <linearGradient id="i1i6p1ar3a" x1=".423%" x2="101.163%" y1="56.09%" y2="51.056%">
+            <stop offset="0%" stop-color="#DDE8ED"/>
+            <stop offset="76%" stop-color="#F3F8FB"/>
+        </linearGradient>
+        <linearGradient id="q0ibaukxwb" x1="0%" x2="99.97%" y1="49.975%" y2="49.975%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#F4F4F4"/>
+        </linearGradient>
+        <linearGradient id="3kjyxscnrc" x1="1506.001%" x2="2493.997%" y1="1934.998%" y2="1934.998%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#F4F4F4"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <g>
+                <g>
+                    <g>
+                        <path fill="url(#i1i6p1ar3a)" d="M37.21 27.8C32 34.9 18.63 39.93 10 39.08-5.49 37.55 2.18 13.35 7.27 5.47c9.47-14.64 39.9 8.77 29.94 22.33z" transform="translate(-32 -484) translate(16 440) translate(16 44) matrix(-1 0 0 1 40 0)"/>
+                        <path fill="#4A4A4A" d="M33.3 10.25l-26.6.03c-.926 0-1.813.368-2.468 1.022-.654.655-1.022 1.543-1.022 2.468V27c.008.92.38 1.8 1.033 2.449.653.648 1.537 1.011 2.457 1.011h26.6c.92 0 1.804-.363 2.457-1.011.654-.649 1.025-1.529 1.033-2.449V13.74c0-.925-.368-1.813-1.022-2.468-.655-.654-1.542-1.022-2.468-1.022z" opacity=".4" transform="translate(-32 -484) translate(16 440) translate(16 44) matrix(-1 0 0 1 40 0)"/>
+                        <path fill="url(#q0ibaukxwb)" d="M33.31 9.25H6.7c-1.928 0-3.49 1.563-3.49 3.49v13.23c0 1.928 1.562 3.49 3.49 3.49h26.61c1.927 0 3.49-1.563 3.49-3.49V12.74c0-1.928-1.563-3.49-3.49-3.49z" transform="translate(-32 -484) translate(16 440) translate(16 44) matrix(-1 0 0 1 40 0)"/>
+                        <path fill="#DEE2E9" d="M32.78 10.95H7.23c-1.198 0-2.17.972-2.17 2.17v12.46c0 1.199.972 2.17 2.17 2.17h25.55c1.198 0 2.17-.971 2.17-2.17V13.12c0-1.198-.972-2.17-2.17-2.17z" transform="translate(-32 -484) translate(16 440) translate(16 44) matrix(-1 0 0 1 40 0)"/>
+                        <path fill="url(#3kjyxscnrc)" d="M20 24.29c2.728 0 4.94-2.212 4.94-4.94s-2.212-4.94-4.94-4.94-4.94 2.212-4.94 4.94 2.212 4.94 4.94 4.94z" transform="translate(-32 -484) translate(16 440) translate(16 44) matrix(-1 0 0 1 40 0)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

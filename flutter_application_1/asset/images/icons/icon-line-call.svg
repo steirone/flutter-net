@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <path id="isrsken4ta" d="M24.038 19.075l-3.175-.363c-.763-.087-1.513.175-2.05.713l-2.3 2.3c-3.538-1.8-6.438-4.688-8.238-8.238l2.313-2.312c.537-.538.8-1.288.712-2.05l-.363-3.15c-.15-1.262-1.212-2.212-2.487-2.212H6.288c-1.413 0-2.588 1.175-2.5 2.587.662 10.675 9.2 19.2 19.862 19.862 1.413.088 2.588-1.087 2.588-2.5V21.55c.012-1.262-.938-2.325-2.2-2.475z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-16.000000, -534.000000) translate(0.000000, 377.000000) translate(0.000000, 144.000000) translate(16.000000, 13.000000)">
+                        <path d="M0 0L30 0 30 30 0 30z"/>
+                        <mask id="pvndyabf2b" fill="#fff">
+                            <use xlink:href="#isrsken4ta"/>
+                        </mask>
+                        <g fill="#000" fill-opacity=".4" mask="url(#pvndyabf2b)">
+                            <path d="M0 0L30 0 30 30 0 30z"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

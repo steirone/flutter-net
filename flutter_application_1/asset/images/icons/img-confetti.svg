@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="208" viewBox="0 0 220 208">
+    <g fill="none" fill-rule="evenodd" transform="translate(-.896 -.49)">
+        <path stroke="#DEE2E9" stroke-linecap="round" stroke-width="5" d="M95.779 53.305L89.779 61.305" opacity=".93" transform="rotate(15 92.78 57.305)"/>
+        <path stroke="#A605AD" stroke-linecap="round" stroke-width="5" d="M35.663 16.228L37.663 7.228" opacity=".39" transform="rotate(15 36.663 11.728)"/>
+        <path stroke="#E68017" stroke-linecap="round" stroke-width="5" d="M201.649 161.674L191.649 158.674" transform="rotate(15 196.649 160.174)"/>
+        <path stroke="#FF0048" stroke-linecap="round" stroke-width="5" d="M216.628 34.092L211.628 44.092" opacity=".425" transform="rotate(15 214.128 39.092)"/>
+        <path stroke="#F46400" stroke-linecap="round" stroke-width="5" d="M15.983 196.699L19.375 186.199" transform="rotate(15 17.43 191.199)"/>
+        <circle cx="97.147" cy="199.451" r="8.5" fill="#A605AD" transform="rotate(90 97.147 199.451)"/>
+        <circle cx="197.188" cy="55.56" r="4" fill="#F46400" opacity=".534" transform="rotate(-41 197.188 55.56)"/>
+        <circle cx="5.5" cy="83.873" r="4.5" fill="#F46400" opacity=".76" transform="rotate(91 5.5 83.873)"/>
+        <circle cx="157.947" cy="9.5" r="7" stroke="#DFE2E9" stroke-width="3" opacity=".2" transform="rotate(-85 157.947 9.5)"/>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico_acceptedworldwide@1,5x</title>
+    <defs>
+        <filter x="-3.5%" y="-2.8%" width="107.0%" height="105.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-21.7%" y="-21.7%" width="143.3%" height="143.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="R2---Current" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="POSREG_Card" transform="translate(-39.000000, -267.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Activate-Card" filter="url(#filter-1)" transform="translate(16.000000, 148.000000)">
+                <g id="ico_acceptedworldwide" transform="translate(23.000000, 119.000000)" filter="url(#filter-2)">
+                    <g id="Group-11" transform="translate(3.000000, 3.000000)">
+                        <path d="M20.3726654,20.3739196 C15.6937759,25.0177735 8.14488818,25.0177735 3.46599869,20.3739196 L4.87933202,18.9605862 C8.15735329,22.2293144 13.2553732,22.808604 17.1832068,20.3586795 C21.1110404,17.9087549 22.8331003,13.0755475 21.339332,8.69391958 C21.1698997,8.20668994 21.4016142,7.67085006 21.8726654,7.46058625 L21.8726654,7.46058625 C22.1274163,7.35312291 22.4152912,7.35592975 22.6678983,7.46833991 C22.9205054,7.58075008 23.1152982,7.79273035 23.2059987,8.05391958 C24.6765826,12.3654835 23.5790187,17.13795 20.3726654,20.3739196 L20.3726654,20.3739196 Z" id="Path" opacity="0.5"></path>
+                        <path d="M20.3726654,3.46725291 L18.959332,4.88058625 C15.6813108,1.61185811 10.5832908,1.03256848 6.65545722,3.48249304 C2.72762363,5.93241759 1.00556375,10.765625 2.49933202,15.1472529 C2.66876437,15.6344826 2.43704982,16.1703224 1.96599869,16.3805862 L1.96599869,16.3805862 C1.71124777,16.4880496 1.42337285,16.4852427 1.17076574,16.3728326 C0.918158621,16.2604224 0.723365888,16.0484421 0.632665356,15.7872529 C-1.14582,10.5349242 0.921509617,4.74910341 5.6257586,1.81311823 C10.3300076,-1.12286696 16.4357852,-0.437992578 20.3726654,3.46725291 Z" id="Path" opacity="0.5"></path>
+                        <circle id="Oval" cx="4.17266536" cy="19.6672529" r="2.02666667"></circle>
+                        <circle id="Oval" cx="19.6659987" cy="4.17391958" r="2.02666667"></circle>
+                        <circle id="Oval" cx="11.919332" cy="11.9205862" r="7.91333333"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
